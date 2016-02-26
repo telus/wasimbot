@@ -2,7 +2,7 @@
 
 Automating Wasim one script at a time.
 
-This is a telusdigital specific instance of [hubot](https://hubot.github.com/).
+This is a telusdigital specific instance of [hubot](https://hubot.github.com/) that can be easily deployed to an ECS instance on Elasticbeanstalk.
 
 ## Testing
 
@@ -34,10 +34,6 @@ Assuming your hubot script is called `hubot-foo`
 
 1. `npm install --save hubot-foo`
 2.  add `hubot-foo` to `hubot/external-scripts.json`
-
-### Custom Scripts
-
--- TODO --
 
 ## Deployment
 
