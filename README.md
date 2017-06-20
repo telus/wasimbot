@@ -1,5 +1,7 @@
 # Wasimbot
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/telusdigital/wasimbot.svg)](https://greenkeeper.io/)
+
 Automating Wasim one script at a time.
 
 This is a telusdigital specific instance of [hubot](https://hubot.github.com/) that can be easily deployed to an ECS instance on Elasticbeanstalk.
